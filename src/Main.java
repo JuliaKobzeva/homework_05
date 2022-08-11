@@ -1,9 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        task();
-    }
 
-    public static void task(){
         int[]number = new int[3];
         number[0] = 1;
         number[1] = 2;
